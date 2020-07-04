@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b19e457c-f95a-4d6f-a9cc-1daf7bdde4f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapter2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_01/_01MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_02/_02Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_02/_02MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_03/_03Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_03/_03MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_04/MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_02reflect/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_02reflect/PrivateCarReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_02reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_03resource/FileSourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_03resource/PatternResolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/AmmotationApplicationContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/BeanFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/Beans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter2/src/main/java/com/smart/web/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter2/src/main/java/com/smart/web/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/beanfactory/BeanLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/BeanLifeCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/beanfactory/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/beanfactory/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/beanfactory/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_04beanfactory/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/ioc/ActorArrangable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_04/ActorArrangable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/ioc/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/_04/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/ioc/GeLi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/GeLi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/ioc/LiuDeHua.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/LiuDeHua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/ioc/MoAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_01ioc/MoAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/reflect/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/reflect/PrivateCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/resource/EncodedResourceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/_03resource/EncodedResourceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/java/com/smart/resource/FileSourceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/resources/com/smart/beanfactory/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/resources/com/smart/_04beanfactory/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/resources/conf/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/resources/conf/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/resources/moAttack.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/resources/moAttack.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/src/main/webapp/WEB-INF/classes/moAttack.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/src/main/webapp/WEB-INF/classes/moAttack.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-751097636">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="RELEASE" value="1" />
+          <entry key="SpringBootApplication" value="1" />
+          <entry key="class" value="6" />
+          <entry key="java" value="8" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="8" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-513" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.jar!/org/springframework/boot/context/web/SpringBootServletInitializer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/web/WebApplicationInitializer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/domain/LoginLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-262">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-112">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/spring - 副本 - 副本/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring/spring-framework" value="PREVIEW" />
+        <entry key="D:/360安全浏览器下载/spring-framework-5.0.x" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="111" />
+    <option name="y" value="86" />
+    <option name="width" value="1367" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593826533508" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19e457c-f95a-4d6f-a9cc-1daf7bdde4f5" name="Default Changelist" comment="" />
+      <created>1593825383964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593825383964</updated>
+      <workItem from="1593825389641" duration="1189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122068234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/org.springframework.boot:chapter3:1.3.3.RELEASE">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>org.springframework.boot:chapter3:1.3.3.RELEASE</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.boot:chapter3:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/ch.qos.logback:logback-classic:jar:1.1.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/ch.qos.logback:logback-classic:jar:1.1.5/ch.qos.logback:logback-core:jar:1.1.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/ch.qos.logback:logback-classic:jar:1.1.5/org.slf4j:slf4j-api:jar:1.7.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.3.3.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.3.3.RELEASE/org.yaml:snakeyaml:jar:1.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:8.0.32</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.3.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.0.32</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.3.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.3.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.3.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-starter-validation:jar:1.3.3.RELEASE/org.hibernate:hibernate-validator:jar:5.2.4.Final/com.fasterxml:classmate:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.6.5/com.fasterxml.jackson.core:jackson-core:jar:2.6.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-web:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-aop:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-aop:jar:4.2.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-context:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-webmvc:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.3.3.RELEASE/org.springframework:spring-webmvc:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.3.3.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.0.32</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.3.3.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.0.32/org.apache.tomcat:tomcat-juli:jar:8.0.32</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.3.3.RELEASE/org.springframework:spring-jdbc:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.3.3.RELEASE/org.springframework:spring-jdbc:jar:4.2.5.RELEASE/org.springframework:spring-tx:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.3.3.RELEASE/org.springframework.boot:spring-boot-actuator:jar:1.3.3.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.38</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.0.32</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.0.32/org.apache.tomcat.embed:tomcat-embed-core:jar:8.0.32</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.0.32/org.apache.tomcat.embed:tomcat-embed-el:jar:8.0.32</node>
+            <node x="" y="">org.apache.tomcat.embed:tomcat-embed-jasper:jar:8.0.32/org.eclipse.jdt.core.compiler:ecj:jar:4.4.2</node>
+            <node x="" y="">javax.servlet:jstl:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.springframework:spring-core:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.3.3.RELEASE/org.springframework:spring-test:jar:4.2.5.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.475069832402235" x="2498.2786536003405" y="585.9022392652557" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.3.3.RELEASE/spring-boot-autoconfigure-1.3.3.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.boot.autoconfigure.SpringBootApplication">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.boot.autoconfigure.SpringBootApplication</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.context.annotation.Configuration</node>
+            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+            <node x="" y="">org.springframework.boot.autoconfigure.EnableAutoConfiguration</node>
+            <node x="" y="">java.lang.annotation.Annotation</node>
+            <node x="" y="">java.lang.annotation.Inherited</node>
+            <node x="" y="">java.lang.annotation.Target</node>
+            <node x="" y="">java.lang.annotation.Documented</node>
+            <node x="" y="">org.springframework.context.annotation.ComponentScan</node>
+            <node x="" y="">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="320.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/LoginLogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/domain/LoginLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/web/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/web/WebApplicationInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot/1.3.3.RELEASE/spring-boot-1.3.3.RELEASE.jar!/org/springframework/boot/context/web/SpringBootServletInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-actuator/1.3.3.RELEASE/spring-boot-actuator-1.3.3.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/HealthIndicatorAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="171" column="40" selection-start-line="171" selection-start-column="40" selection-end-line="171" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

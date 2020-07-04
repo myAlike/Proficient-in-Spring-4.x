@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fb4d37b-532f-41b5-b5fe-54a70b0e6437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_01/_01MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_02/_02Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_02/_02MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_03/_03Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_03/_03MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_04/MoAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_02reflect/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_02reflect/PrivateCarReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_02reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_03resource/_01FileSourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_03resource/_03PatternResolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/_01BeanFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/_02AnnotationApplicationContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_02simple/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_02simple/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_03ditype/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/LogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/XmlUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_13dynamic/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_03ditype/beans1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_03ditype/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_03ditype/DiTypeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_03ditype/DiTypeTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/src/main/java/com/smart/web/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/src/main/java/com/smart/web/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/beanfactory/BeanLifeCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/_03BeanLifeCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/beanfactory/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/beanfactory/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/beanfactory/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_04beanfactory/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/ioc/ActorArrangable.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_04/ActorArrangable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/ioc/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/_04/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/ioc/GeLi.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/GeLi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/ioc/LiuDeHua.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/LiuDeHua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/ioc/MoAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_01ioc/MoAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/reflect/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/reflect/PrivateCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/resource/EncodedResourceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/_03resource/_02EncodedResourceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/java/com/smart/resource/FileSourceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/resources/com/smart/beanfactory/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/resources/com/smart/_04beanfactory/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/resources/conf/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/resources/conf/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/resources/moAttack.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/resources/moAttack.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/src/main/webapp/WEB-INF/classes/moAttack.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/src/main/webapp/WEB-INF/classes/moAttack.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/LogDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/LogDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/LogonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/LogonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/LogonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/LogonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/MyComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/MyComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/OnePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/OnePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/Plugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/Plugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/TwoPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/TwoPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/anno/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_10anno/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/attr/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_04attr/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/attr/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_04attr/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/attr/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_04attr/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/attr/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_04attr/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/AppConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/AppConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/DaoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/DaoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/JavaConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/JavaConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/LogDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/LogonAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/LogonAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/LogonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/LogonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/ServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_11conf/ServiceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/conf/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/ditype/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_03ditype/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/ditype/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_03ditype/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/ditype/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_03ditype/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/ditype/Office.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/dynamic/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/dynamic/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_13dynamic/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/dynamic/UserServiceDefinitionParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_13dynamic/UserServiceDefinitionParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/dynamic/UserServiceFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_13dynamic/UserServiceFactoryBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/dynamic/UserServiceNamespaceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_13dynamic/UserServiceNamespaceHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/fb/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_09fb/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/fb/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_09fb/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/fb/CarBrandEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_09fb/CarBrandEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/fb/CarBrandType.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_09fb/CarBrandType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/fb/CarFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_09fb/CarFactoryBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/DbUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/DbUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/LogDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/LogDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/LogonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/LogonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/LogonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/LogonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_12groovy/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/groovy/XmlUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/impt/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_07impt/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/injectfun/Boss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_05injectfun/Boss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/injectfun/Boss2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_05injectfun/Boss2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/injectfun/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_05injectfun/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/injectfun/MagicBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_05injectfun/MagicBoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/scope/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_08scope/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/scope/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/simple/Boss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/simple/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/CacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/CacheManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/CacheTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/CacheTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_08scope/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/SysInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/SysInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/tagdepend/SystemSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/smart/_06tagdepend/SystemSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/META-INF/spring.handlers" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/META-INF/spring.handlers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/anno/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_10anno/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/anno/mycomponent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_10anno/mycomponent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/attr/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_04attr/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/attr/beans1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_04attr/beans1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/attr/beans2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_04attr/beans2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/conf/beans1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_11conf/beans1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/conf/beans2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_11conf/beans2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/conf/beans3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_11conf/beans3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/ditype/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_03ditype/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/dynamic/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_13dynamic/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/dynamic/custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_13dynamic/custom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/fb/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_09fb/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/fb/mails.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_09fb/mails.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/groovy/spring-context.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_12groovy/spring-context.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/groovy/spring-mvc-import.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_12groovy/spring-mvc-import.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/groovy/spring-mvc.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_12groovy/spring-mvc.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/impt/beans1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_07impt/beans1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/impt/beans2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_07impt/beans2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/injectfun/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_05injectfun/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/scope/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_08scope/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/simple/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_02simple/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/tagdepend/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/_06tagdepend/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/anno/AnnoAutowireTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_10anno/AnnoAutowireTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/anno/MyComponentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_10anno/MyComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/anno/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_10anno/SimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/attr/BeanAttrDITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_04attr/BeanAttrDITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/attr/ParentContainerBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_04attr/ParentContainerBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/ditype/DiTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_03ditype/DiTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/dynamic/CustomSchemaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_13dynamic/CustomSchemaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/dynamic/DynamicBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_13dynamic/DynamicBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/fb/FactoryBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_09fb/FactoryBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/groovy/LogonServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_12groovy/LogonServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/injectfun/InjectFunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_05injectfun/InjectFunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/scope/ScopeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_08scope/ScopeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/simple/BeanRetrieveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_02simple/BeanRetrieveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/tagdepend/TagDependTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/test/java/com/smart/_06tagdepend/TagDependTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-598635110">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/spring - 副本 - 副本/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring/spring-framework" value="PREVIEW" />
+        <entry key="D:/360安全浏览器下载/spring-framework-5.0.x" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="111" />
+    <option name="y" value="86" />
+    <option name="width" value="1367" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proficient-in-Spring-4.x" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proficient-in-Spring-4.x" type="462c0819:PsiDirectoryNode" />
+              <item name="外篇二" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593857704383" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb4d37b-532f-41b5-b5fe-54a70b0e6437" name="Default Changelist" comment="" />
+      <created>1593819516189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593819516189</updated>
+      <workItem from="1593819550011" duration="1259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Persistence" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

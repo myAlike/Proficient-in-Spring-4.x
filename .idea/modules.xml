@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Proficient-in-Spring-4.x.iml" filepath="$PROJECT_DIR$/Proficient-in-Spring-4.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/target/classes/classes.iml" filepath="$PROJECT_DIR$/chapter4/target/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/src/main/main.iml" filepath="$PROJECT_DIR$/chapter11/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/src/main/main1.iml" filepath="$PROJECT_DIR$/chapter5/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/src/main/main10.iml" filepath="$PROJECT_DIR$/chapter8/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3/src/main/main11.iml" filepath="$PROJECT_DIR$/chapter3/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/src/main/main12.iml" filepath="$PROJECT_DIR$/chapter15/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/src/main/main13.iml" filepath="$PROJECT_DIR$/chapter9/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/src/main/main14.iml" filepath="$PROJECT_DIR$/chapter18/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/src/main/main15.iml" filepath="$PROJECT_DIR$/chapter6/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/src/main/main16.iml" filepath="$PROJECT_DIR$/chapter7/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12/src/main/main17.iml" filepath="$PROJECT_DIR$/chapter12/src/main/main17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/src/main/main18.iml" filepath="$PROJECT_DIR$/chapter4/src/main/main18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17/src/main/main2.iml" filepath="$PROJECT_DIR$/chapter17/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/src/main/main3.iml" filepath="$PROJECT_DIR$/chapter14/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/src/main/main4.iml" filepath="$PROJECT_DIR$/chapter2/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/src/main/main5.iml" filepath="$PROJECT_DIR$/chapter19/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/src/main/main6.iml" filepath="$PROJECT_DIR$/chapter16/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/src/main/main7.iml" filepath="$PROJECT_DIR$/chapter10/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/src/main/main8.iml" filepath="$PROJECT_DIR$/chapter13/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20/src/main/main9.iml" filepath="$PROJECT_DIR$/chapter20/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4/src/main/resources/resources.iml" filepath="$PROJECT_DIR$/chapter4/src/main/resources/resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/src/main/resources/com/smart/smart.iml" filepath="$PROJECT_DIR$/chapter5/src/main/resources/com/smart/smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19/src/test/test.iml" filepath="$PROJECT_DIR$/chapter19/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7/src/test/test1.iml" filepath="$PROJECT_DIR$/chapter7/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/src/test/test10.iml" filepath="$PROJECT_DIR$/chapter14/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/src/test/test11.iml" filepath="$PROJECT_DIR$/chapter13/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16/src/test/test12.iml" filepath="$PROJECT_DIR$/chapter16/src/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/src/test/test13.iml" filepath="$PROJECT_DIR$/chapter8/src/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18/src/test/test2.iml" filepath="$PROJECT_DIR$/chapter18/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/src/test/test3.iml" filepath="$PROJECT_DIR$/chapter6/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/src/test/test4.iml" filepath="$PROJECT_DIR$/chapter9/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17/src/test/test5.iml" filepath="$PROJECT_DIR$/chapter17/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/src/test/test6.iml" filepath="$PROJECT_DIR$/chapter5/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/src/test/test7.iml" filepath="$PROJECT_DIR$/chapter11/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/src/test/test8.iml" filepath="$PROJECT_DIR$/chapter2/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20/src/test/test9.iml" filepath="$PROJECT_DIR$/chapter20/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>

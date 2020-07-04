@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ant-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ojdbc-14_10g.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/iTextAsian.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

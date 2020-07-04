@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jibx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jibx/bcel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jibx/xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jibx/jibx-extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jibx/jibx-bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jibx/jibx-run.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
